@@ -4,8 +4,3 @@
 
 <br>
 This webpage created with the idea of attractive clock.
-
-
-
-
-
