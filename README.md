@@ -1,6 +1,6 @@
 
 <h1> Web Development Toolkit </h1>
-This is a collection of tools and resources for web development. Whether you're a beginner or an experienced developer, you'll find something useful here to help you improve your skills and streamline your workflow. However if you are an experienced developer then check out this repository  <a href="https://github.com/Lakshya-GG" target="_blank"> Web Development </a>
+This is a collection of tools and resources for web development. Whether you're a beginner or an experienced developer, you'll find something useful here to help you improve your skills and streamline your workflow. However if you are an experienced developer then <a href="https://github.com/Lakshya-GG" target="_blank">  check out this repository </a>
 
 ## Table of Contents 
 <ul>
