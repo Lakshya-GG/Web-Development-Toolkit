@@ -9,7 +9,7 @@ This is a collection of tools and resources for web development. If you're a beg
 <li> Resources </li>
 </ul>
 
-### Getting Started
+## Getting Started
 If you're new to web development, here are some resources to help you get started:
 
 <ul>
@@ -18,7 +18,7 @@ If you're new to web development, here are some resources to help you get starte
 <li>  <a href="https://www.w3schools.com/whatis/" target="_top"> W3Schools - Simple tutorials and examples for HTML, CSS, and JavaScript </a> </li>
 </ul>
 
-### Tools
+## Tools
 Here are some tools that can help you streamline your web development workflow:
 <ul>
 <li>Visual Studio Code - A powerful and customizable code editor</li>
@@ -26,7 +26,7 @@ Here are some tools that can help you streamline your web development workflow:
 <li>Git - A version control system for tracking changes in your code</li>
 </ul>
 
-### Resources
+## Resources
 Here are some additional resources for web development:
 <ul>
 <li>Stack Overflow - A community-driven Q&A site for programming questions</li>
@@ -34,8 +34,8 @@ Here are some additional resources for web development:
 <li>Smashing Magazine - Articles and tutorials for web design and development</li>
 </ul>
 
-### Contributing
+## Contributing
 If you have any suggestions or would like to contribute to this project, please feel free to open an issue or submit a pull request.
 
-### License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
